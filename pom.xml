@@ -4,7 +4,7 @@
 
     <groupId>br.com.bg</groupId>
     <artifactId>web-blue-leme</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>war</packaging>
 
     <properties>
